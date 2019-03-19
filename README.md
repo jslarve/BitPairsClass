@@ -20,3 +20,7 @@ Please see the demo program.
 ## Hire Jeff Slarve
 
 Please contact me at http://jssoftware.com/jssoftware/Contact_Us/contact_us.html
+
+## Tip Jar
+
+http://paypal.me/JeffSlarve
