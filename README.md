@@ -5,7 +5,7 @@ The JSBitPairsClass is a Clarion class loosely based on the FieldPairsClass that
 
 Instead of associating the values of 2 data fields, however, it associates individual bits.
 
-Because of the somewhat similar nature to the BitPairsClass, I got permission from Softvelocity to post this.
+Because of the somewhat similar nature to the FieldPairsClass, I got permission from Softvelocity to post this.
 
 This class is a simple way of doing the action of "Make this bit over here the same value as that one over there" without having to twiddle the bits yourself.
 
